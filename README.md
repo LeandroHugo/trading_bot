@@ -16,7 +16,7 @@ The Trading Bot Project leverages OpenAI Vision for signal detection, `yfinance`
 
 ## Folder Structure
 
-![alt text](<Screenshot 2024-05-29 at 8.33.49 PM.png>)
+![Folder Structure](data/screenshots/folderstructure.png)
 
 ## Contributing
 
