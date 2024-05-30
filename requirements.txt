@@ -1,0 +1,10 @@
+openai
+selenium
+pyautogui
+pytesseract
+opencv-python-headless
+yfinance
+scikit-learn
+pandas
+joblib
+textblob
