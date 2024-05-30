@@ -1,6 +1,6 @@
 # Trading Bot Project
 
-![Trading Bot](https://your-image-link-here)
+![Trading Bot](data/screenshots/robot.png)
 
 ## Overview
 
